@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72ea6dfd.css",
+    "main.js": "/static/js/main.c68f1005.js",
+    "static/js/453.21e444ab.chunk.js": "/static/js/453.21e444ab.chunk.js",
+    "static/media/Sheko.png": "/static/media/Sheko.f5664091d048140dab96.png",
+    "index.html": "/index.html",
+    "main.72ea6dfd.css.map": "/static/css/main.72ea6dfd.css.map",
+    "main.c68f1005.js.map": "/static/js/main.c68f1005.js.map",
+    "453.21e444ab.chunk.js.map": "/static/js/453.21e444ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72ea6dfd.css",
+    "static/js/main.c68f1005.js"
+  ]
+}
