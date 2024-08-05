@@ -1,0 +1,79 @@
+
+.card {
+    width: 100%; /* يمكنك تغيير العرض حسب احتياجاتك */
+    height: 400px; /* يمكنك تغيير الارتفاع حسب احتياجاتك */
+ 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+    width: 100%;
+    height: 225px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 10px;
+}
+
+.card-title {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.card-text {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.card-text:last-child {
+    margin-bottom: 0;
+}
+
+
+button {
+    transition: .2s ease-in-out;
+    font-size: 22px;
+}
+
+.break-line {
+    display: block;
+    margin-top: 10px;
+    width: 3px;
+  }
+  
+
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+.card-footer p{
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+.card-footer .star{
+    color: #c6d401;
+    margin-right: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 3px;
+    
+}
+.star.fa-star-regular {
+    color: transparent; /* جعل النجوم الفارغة غير مرئية */
+}
+#star0{
+    color: #a19f9f;;
+}
